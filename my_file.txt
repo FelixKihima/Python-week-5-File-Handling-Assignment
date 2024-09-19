@@ -1,0 +1,6 @@
+Hello, this is my file.
+Here is a number: 42
+Let's store some text and numbers together.
+This is an additional line 1.
+This is an additional line 2: 100.
+This is an additional line 3.
